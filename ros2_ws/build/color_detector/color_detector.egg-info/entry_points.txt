@@ -1,0 +1,2 @@
+[console_scripts]
+color_detector_node = color_detector.color_detector_node:main

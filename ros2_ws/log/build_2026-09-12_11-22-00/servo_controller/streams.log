@@ -1,0 +1,21 @@
+[1.742s] Invoking command in '/ros2_ws/src/servo_controller': PYTHONPATH=/ros2_ws/build/servo_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ros2_ws/install/servo_controller/lib/python3.12/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/servo_controller build --build-base /ros2_ws/build/servo_controller/build install --record /ros2_ws/build/servo_controller/install.log --install-scripts $base/lib/servo_controller --single-version-externally-managed install_data
+[2.296s] running egg_info
+[2.319s] writing ../../build/servo_controller/servo_controller.egg-info/PKG-INFO
+[2.320s] writing dependency_links to ../../build/servo_controller/servo_controller.egg-info/dependency_links.txt
+[2.324s] writing entry points to ../../build/servo_controller/servo_controller.egg-info/entry_points.txt
+[2.324s] writing requirements to ../../build/servo_controller/servo_controller.egg-info/requires.txt
+[2.325s] writing top-level names to ../../build/servo_controller/servo_controller.egg-info/top_level.txt
+[2.377s] reading manifest file '../../build/servo_controller/servo_controller.egg-info/SOURCES.txt'
+[2.381s] writing manifest file '../../build/servo_controller/servo_controller.egg-info/SOURCES.txt'
+[2.381s] running build
+[2.382s] running build_py
+[2.383s] running install
+[2.405s] running install_lib
+[2.430s] running install_data
+[2.431s] running install_egg_info
+[2.459s] removing '/ros2_ws/install/servo_controller/lib/python3.12/site-packages/servo_controller-0.0.0-py3.12.egg-info' (and everything under it)
+[2.460s] Copying ../../build/servo_controller/servo_controller.egg-info to /ros2_ws/install/servo_controller/lib/python3.12/site-packages/servo_controller-0.0.0-py3.12.egg-info
+[2.465s] running install_scripts
+[2.670s] Installing servo_node script to /ros2_ws/install/servo_controller/lib/servo_controller
+[2.671s] writing list of installed files to '/ros2_ws/build/servo_controller/install.log'
+[2.797s] Invoked command in '/ros2_ws/src/servo_controller' returned '0': PYTHONPATH=/ros2_ws/build/servo_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ros2_ws/install/servo_controller/lib/python3.12/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/servo_controller build --build-base /ros2_ws/build/servo_controller/build install --record /ros2_ws/build/servo_controller/install.log --install-scripts $base/lib/servo_controller --single-version-externally-managed install_data

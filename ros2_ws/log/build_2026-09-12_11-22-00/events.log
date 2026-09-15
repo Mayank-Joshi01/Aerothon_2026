@@ -1,0 +1,54 @@
+[0.000000] (-) TimerEvent: {}
+[0.000899] (servo_controller) JobQueued: {'identifier': 'servo_controller', 'dependencies': OrderedDict()}
+[0.001781] (servo_controller) JobStarted: {'identifier': 'servo_controller'}
+[0.099355] (-) TimerEvent: {}
+[0.200075] (-) TimerEvent: {}
+[0.300637] (-) TimerEvent: {}
+[0.401175] (-) TimerEvent: {}
+[0.501821] (-) TimerEvent: {}
+[0.602642] (-) TimerEvent: {}
+[0.703348] (-) TimerEvent: {}
+[0.804176] (-) TimerEvent: {}
+[0.904769] (-) TimerEvent: {}
+[1.005275] (-) TimerEvent: {}
+[1.105809] (-) TimerEvent: {}
+[1.206346] (-) TimerEvent: {}
+[1.306875] (-) TimerEvent: {}
+[1.407464] (-) TimerEvent: {}
+[1.508066] (-) TimerEvent: {}
+[1.608761] (-) TimerEvent: {}
+[1.709642] (-) TimerEvent: {}
+[1.741118] (servo_controller) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/servo_controller', 'build', '--build-base', '/ros2_ws/build/servo_controller/build', 'install', '--record', '/ros2_ws/build/servo_controller/install.log', '--install-scripts', '$base/lib/servo_controller', '--single-version-externally-managed', 'install_data'], 'cwd': '/ros2_ws/src/servo_controller', 'env': {'HOSTNAME': 'Drone', 'SHLVL': '1', 'HOME': '/root', 'OLDPWD': '/', 'ROS_DISTRO': 'jazzy', '_': '/usr/bin/colcon', 'TERM': 'xterm', 'PATH': '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin', 'LANG': 'C.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:', 'PWD': '/ros2_ws/build/servo_controller', 'LC_ALL': 'C.UTF-8', 'COLCON': '1', 'PYTHONPATH': '/ros2_ws/build/servo_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ros2_ws/install/servo_controller/lib/python3.12/site-packages:'}, 'shell': False}
+[1.809804] (-) TimerEvent: {}
+[1.910413] (-) TimerEvent: {}
+[2.010985] (-) TimerEvent: {}
+[2.111721] (-) TimerEvent: {}
+[2.212240] (-) TimerEvent: {}
+[2.297801] (servo_controller) StdoutLine: {'line': b'running egg_info\n'}
+[2.312356] (-) TimerEvent: {}
+[2.321034] (servo_controller) StdoutLine: {'line': b'writing ../../build/servo_controller/servo_controller.egg-info/PKG-INFO\n'}
+[2.322015] (servo_controller) StdoutLine: {'line': b'writing dependency_links to ../../build/servo_controller/servo_controller.egg-info/dependency_links.txt\n'}
+[2.325414] (servo_controller) StdoutLine: {'line': b'writing entry points to ../../build/servo_controller/servo_controller.egg-info/entry_points.txt\n'}
+[2.326283] (servo_controller) StdoutLine: {'line': b'writing requirements to ../../build/servo_controller/servo_controller.egg-info/requires.txt\n'}
+[2.327175] (servo_controller) StdoutLine: {'line': b'writing top-level names to ../../build/servo_controller/servo_controller.egg-info/top_level.txt\n'}
+[2.379057] (servo_controller) StdoutLine: {'line': b"reading manifest file '../../build/servo_controller/servo_controller.egg-info/SOURCES.txt'\n"}
+[2.382540] (servo_controller) StdoutLine: {'line': b"writing manifest file '../../build/servo_controller/servo_controller.egg-info/SOURCES.txt'\n"}
+[2.383188] (servo_controller) StdoutLine: {'line': b'running build\n'}
+[2.383771] (servo_controller) StdoutLine: {'line': b'running build_py\n'}
+[2.384427] (servo_controller) StdoutLine: {'line': b'running install\n'}
+[2.406681] (servo_controller) StdoutLine: {'line': b'running install_lib\n'}
+[2.412476] (-) TimerEvent: {}
+[2.431721] (servo_controller) StdoutLine: {'line': b'running install_data\n'}
+[2.432416] (servo_controller) StdoutLine: {'line': b'running install_egg_info\n'}
+[2.460462] (servo_controller) StdoutLine: {'line': b"removing '/ros2_ws/install/servo_controller/lib/python3.12/site-packages/servo_controller-0.0.0-py3.12.egg-info' (and everything under it)\n"}
+[2.461771] (servo_controller) StdoutLine: {'line': b'Copying ../../build/servo_controller/servo_controller.egg-info to /ros2_ws/install/servo_controller/lib/python3.12/site-packages/servo_controller-0.0.0-py3.12.egg-info\n'}
+[2.466566] (servo_controller) StdoutLine: {'line': b'running install_scripts\n'}
+[2.512627] (-) TimerEvent: {}
+[2.613179] (-) TimerEvent: {}
+[2.671318] (servo_controller) StdoutLine: {'line': b'Installing servo_node script to /ros2_ws/install/servo_controller/lib/servo_controller\n'}
+[2.672607] (servo_controller) StdoutLine: {'line': b"writing list of installed files to '/ros2_ws/build/servo_controller/install.log'\n"}
+[2.713430] (-) TimerEvent: {}
+[2.798859] (servo_controller) CommandEnded: {'returncode': 0}
+[2.813619] (-) TimerEvent: {}
+[2.838021] (servo_controller) JobEnded: {'identifier': 'servo_controller', 'rc': 0}
+[2.840642] (-) EventReactorShutdown: {}

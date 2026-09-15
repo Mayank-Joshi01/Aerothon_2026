@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/color_detector/color_detector.egg-info
+writing ../../build/color_detector/color_detector.egg-info/PKG-INFO
+writing dependency_links to ../../build/color_detector/color_detector.egg-info/dependency_links.txt
+writing entry points to ../../build/color_detector/color_detector.egg-info/entry_points.txt
+writing requirements to ../../build/color_detector/color_detector.egg-info/requires.txt
+writing top-level names to ../../build/color_detector/color_detector.egg-info/top_level.txt
+writing manifest file '../../build/color_detector/color_detector.egg-info/SOURCES.txt'
+reading manifest file '../../build/color_detector/color_detector.egg-info/SOURCES.txt'
+writing manifest file '../../build/color_detector/color_detector.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /ros2_ws/build/color_detector/build
+creating /ros2_ws/build/color_detector/build/lib
+creating /ros2_ws/build/color_detector/build/lib/color_detector
+copying color_detector/__init__.py -> /ros2_ws/build/color_detector/build/lib/color_detector
+copying color_detector/color_detector_node.py -> /ros2_ws/build/color_detector/build/lib/color_detector
+running install
+running install_lib
+creating /ros2_ws/install/color_detector/lib/python3.12/site-packages/color_detector
+copying /ros2_ws/build/color_detector/build/lib/color_detector/__init__.py -> /ros2_ws/install/color_detector/lib/python3.12/site-packages/color_detector
+copying /ros2_ws/build/color_detector/build/lib/color_detector/color_detector_node.py -> /ros2_ws/install/color_detector/lib/python3.12/site-packages/color_detector
+byte-compiling /ros2_ws/install/color_detector/lib/python3.12/site-packages/color_detector/__init__.py to __init__.cpython-312.pyc
+byte-compiling /ros2_ws/install/color_detector/lib/python3.12/site-packages/color_detector/color_detector_node.py to color_detector_node.cpython-312.pyc
+running install_data
+creating /ros2_ws/install/color_detector/share/ament_index
+creating /ros2_ws/install/color_detector/share/ament_index/resource_index
+creating /ros2_ws/install/color_detector/share/ament_index/resource_index/packages
+copying resource/color_detector -> /ros2_ws/install/color_detector/share/ament_index/resource_index/packages
+copying package.xml -> /ros2_ws/install/color_detector/share/color_detector
+running install_egg_info
+Copying ../../build/color_detector/color_detector.egg-info to /ros2_ws/install/color_detector/lib/python3.12/site-packages/color_detector-0.0.0-py3.12.egg-info
+running install_scripts
+Installing color_detector_node script to /ros2_ws/install/color_detector/lib/color_detector
+writing list of installed files to '/ros2_ws/build/color_detector/install.log'

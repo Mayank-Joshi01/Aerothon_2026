@@ -1,0 +1,72 @@
+[0.000000] (-) TimerEvent: {}
+[0.000848] (-) JobUnselected: {'identifier': 'color_detector'}
+[0.001767] (-) JobUnselected: {'identifier': 'servo_controller'}
+[0.002772] (camera_publisher) JobQueued: {'identifier': 'camera_publisher', 'dependencies': OrderedDict()}
+[0.003261] (camera_publisher) JobStarted: {'identifier': 'camera_publisher'}
+[0.099375] (-) TimerEvent: {}
+[0.199966] (-) TimerEvent: {}
+[0.300556] (-) TimerEvent: {}
+[0.401179] (-) TimerEvent: {}
+[0.501729] (-) TimerEvent: {}
+[0.602327] (-) TimerEvent: {}
+[0.703047] (-) TimerEvent: {}
+[0.803622] (-) TimerEvent: {}
+[0.904389] (-) TimerEvent: {}
+[1.005238] (-) TimerEvent: {}
+[1.105992] (-) TimerEvent: {}
+[1.206680] (-) TimerEvent: {}
+[1.307250] (-) TimerEvent: {}
+[1.407859] (-) TimerEvent: {}
+[1.508376] (-) TimerEvent: {}
+[1.608908] (-) TimerEvent: {}
+[1.709597] (-) TimerEvent: {}
+[1.785393] (camera_publisher) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/camera_publisher', 'build', '--build-base', '/ros2_ws/build/camera_publisher/build', 'install', '--record', '/ros2_ws/build/camera_publisher/install.log', '--install-scripts', '$base/lib/camera_publisher', '--single-version-externally-managed', 'install_data'], 'cwd': '/ros2_ws/src/camera_publisher', 'env': {'HOSTNAME': 'Drone', 'SHLVL': '1', 'HOME': '/root', 'OLDPWD': '/', 'ROS_DISTRO': 'jazzy', '_': '/usr/bin/colcon', 'TERM': 'xterm', 'PATH': '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin', 'LANG': 'C.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:', 'PWD': '/ros2_ws/build/camera_publisher', 'LC_ALL': 'C.UTF-8', 'COLCON': '1', 'PYTHONPATH': '/ros2_ws/build/camera_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ros2_ws/install/camera_publisher/lib/python3.12/site-packages:'}, 'shell': False}
+[1.809901] (-) TimerEvent: {}
+[1.910558] (-) TimerEvent: {}
+[2.011151] (-) TimerEvent: {}
+[2.111767] (-) TimerEvent: {}
+[2.212337] (-) TimerEvent: {}
+[2.312870] (-) TimerEvent: {}
+[2.361557] (camera_publisher) StdoutLine: {'line': b'running egg_info\n'}
+[2.362706] (camera_publisher) StdoutLine: {'line': b'creating ../../build/camera_publisher/camera_publisher.egg-info\n'}
+[2.384427] (camera_publisher) StdoutLine: {'line': b'writing ../../build/camera_publisher/camera_publisher.egg-info/PKG-INFO\n'}
+[2.385430] (camera_publisher) StdoutLine: {'line': b'writing dependency_links to ../../build/camera_publisher/camera_publisher.egg-info/dependency_links.txt\n'}
+[2.386071] (camera_publisher) StdoutLine: {'line': b'writing entry points to ../../build/camera_publisher/camera_publisher.egg-info/entry_points.txt\n'}
+[2.386628] (camera_publisher) StdoutLine: {'line': b'writing requirements to ../../build/camera_publisher/camera_publisher.egg-info/requires.txt\n'}
+[2.387183] (camera_publisher) StdoutLine: {'line': b'writing top-level names to ../../build/camera_publisher/camera_publisher.egg-info/top_level.txt\n'}
+[2.387806] (camera_publisher) StdoutLine: {'line': b"writing manifest file '../../build/camera_publisher/camera_publisher.egg-info/SOURCES.txt'\n"}
+[2.413027] (-) TimerEvent: {}
+[2.436235] (camera_publisher) StdoutLine: {'line': b"reading manifest file '../../build/camera_publisher/camera_publisher.egg-info/SOURCES.txt'\n"}
+[2.438359] (camera_publisher) StdoutLine: {'line': b"writing manifest file '../../build/camera_publisher/camera_publisher.egg-info/SOURCES.txt'\n"}
+[2.438958] (camera_publisher) StdoutLine: {'line': b'running build\n'}
+[2.439488] (camera_publisher) StdoutLine: {'line': b'running build_py\n'}
+[2.440109] (camera_publisher) StdoutLine: {'line': b'creating /ros2_ws/build/camera_publisher/build\n'}
+[2.440715] (camera_publisher) StdoutLine: {'line': b'creating /ros2_ws/build/camera_publisher/build/lib\n'}
+[2.441317] (camera_publisher) StdoutLine: {'line': b'creating /ros2_ws/build/camera_publisher/build/lib/camera_publisher\n'}
+[2.442046] (camera_publisher) StdoutLine: {'line': b'copying camera_publisher/__init__.py -> /ros2_ws/build/camera_publisher/build/lib/camera_publisher\n'}
+[2.442656] (camera_publisher) StdoutLine: {'line': b'copying camera_publisher/camera_code.py -> /ros2_ws/build/camera_publisher/build/lib/camera_publisher\n'}
+[2.443087] (camera_publisher) StdoutLine: {'line': b'running install\n'}
+[2.463912] (camera_publisher) StdoutLine: {'line': b'running install_lib\n'}
+[2.488186] (camera_publisher) StdoutLine: {'line': b'creating /ros2_ws/install/camera_publisher/lib/python3.12/site-packages/camera_publisher\n'}
+[2.488873] (camera_publisher) StdoutLine: {'line': b'copying /ros2_ws/build/camera_publisher/build/lib/camera_publisher/__init__.py -> /ros2_ws/install/camera_publisher/lib/python3.12/site-packages/camera_publisher\n'}
+[2.489474] (camera_publisher) StdoutLine: {'line': b'copying /ros2_ws/build/camera_publisher/build/lib/camera_publisher/camera_code.py -> /ros2_ws/install/camera_publisher/lib/python3.12/site-packages/camera_publisher\n'}
+[2.491051] (camera_publisher) StdoutLine: {'line': b'byte-compiling /ros2_ws/install/camera_publisher/lib/python3.12/site-packages/camera_publisher/__init__.py to __init__.cpython-312.pyc\n'}
+[2.492019] (camera_publisher) StdoutLine: {'line': b'byte-compiling /ros2_ws/install/camera_publisher/lib/python3.12/site-packages/camera_publisher/camera_code.py to camera_code.cpython-312.pyc\n'}
+[2.494477] (camera_publisher) StdoutLine: {'line': b'running install_data\n'}
+[2.495096] (camera_publisher) StdoutLine: {'line': b'creating /ros2_ws/install/camera_publisher/share/ament_index\n'}
+[2.495678] (camera_publisher) StdoutLine: {'line': b'creating /ros2_ws/install/camera_publisher/share/ament_index/resource_index\n'}
+[2.496261] (camera_publisher) StdoutLine: {'line': b'creating /ros2_ws/install/camera_publisher/share/ament_index/resource_index/packages\n'}
+[2.496788] (camera_publisher) StdoutLine: {'line': b'copying resource/camera_publisher -> /ros2_ws/install/camera_publisher/share/ament_index/resource_index/packages\n'}
+[2.497350] (camera_publisher) StdoutLine: {'line': b'copying package.xml -> /ros2_ws/install/camera_publisher/share/camera_publisher\n'}
+[2.497774] (camera_publisher) StdoutLine: {'line': b'running install_egg_info\n'}
+[2.513280] (-) TimerEvent: {}
+[2.527925] (camera_publisher) StdoutLine: {'line': b'Copying ../../build/camera_publisher/camera_publisher.egg-info to /ros2_ws/install/camera_publisher/lib/python3.12/site-packages/camera_publisher-0.0.0-py3.12.egg-info\n'}
+[2.530828] (camera_publisher) StdoutLine: {'line': b'running install_scripts\n'}
+[2.613406] (-) TimerEvent: {}
+[2.713961] (-) TimerEvent: {}
+[2.742346] (camera_publisher) StdoutLine: {'line': b'Installing camera_node script to /ros2_ws/install/camera_publisher/lib/camera_publisher\n'}
+[2.743717] (camera_publisher) StdoutLine: {'line': b"writing list of installed files to '/ros2_ws/build/camera_publisher/install.log'\n"}
+[2.814265] (-) TimerEvent: {}
+[2.869493] (camera_publisher) CommandEnded: {'returncode': 0}
+[2.906904] (camera_publisher) JobEnded: {'identifier': 'camera_publisher', 'rc': 0}
+[2.909514] (-) EventReactorShutdown: {}

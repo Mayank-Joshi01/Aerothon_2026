@@ -1,0 +1,24 @@
+[2.647s] Invoking command in '/ros2_ws/src/color_detector': PYTHONPATH=/ros2_ws/build/color_detector/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ros2_ws/install/color_detector/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/color_detector build --build-base /ros2_ws/build/color_detector/build install --record /ros2_ws/build/color_detector/install.log --install-scripts $base/lib/color_detector --single-version-externally-managed install_data
+[3.537s] running egg_info
+[3.592s] writing ../../build/color_detector/color_detector.egg-info/PKG-INFO
+[3.593s] writing dependency_links to ../../build/color_detector/color_detector.egg-info/dependency_links.txt
+[3.595s] writing entry points to ../../build/color_detector/color_detector.egg-info/entry_points.txt
+[3.596s] writing requirements to ../../build/color_detector/color_detector.egg-info/requires.txt
+[3.596s] writing top-level names to ../../build/color_detector/color_detector.egg-info/top_level.txt
+[3.716s] reading manifest file '../../build/color_detector/color_detector.egg-info/SOURCES.txt'
+[3.719s] writing manifest file '../../build/color_detector/color_detector.egg-info/SOURCES.txt'
+[3.720s] running build
+[3.720s] running build_py
+[3.721s] copying color_detector/color_detector_node.py -> /ros2_ws/build/color_detector/build/lib/color_detector
+[3.722s] running install
+[3.748s] running install_lib
+[3.803s] copying /ros2_ws/build/color_detector/build/lib/color_detector/color_detector_node.py -> /ros2_ws/install/color_detector/lib/python3.12/site-packages/color_detector
+[3.808s] byte-compiling /ros2_ws/install/color_detector/lib/python3.12/site-packages/color_detector/color_detector_node.py to color_detector_node.cpython-312.pyc
+[3.812s] running install_data
+[3.812s] running install_egg_info
+[3.885s] removing '/ros2_ws/install/color_detector/lib/python3.12/site-packages/color_detector-0.0.0-py3.12.egg-info' (and everything under it)
+[3.893s] Copying ../../build/color_detector/color_detector.egg-info to /ros2_ws/install/color_detector/lib/python3.12/site-packages/color_detector-0.0.0-py3.12.egg-info
+[3.896s] running install_scripts
+[4.289s] Installing color_detector_node script to /ros2_ws/install/color_detector/lib/color_detector
+[4.291s] writing list of installed files to '/ros2_ws/build/color_detector/install.log'
+[4.443s] Invoked command in '/ros2_ws/src/color_detector' returned '0': PYTHONPATH=/ros2_ws/build/color_detector/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ros2_ws/install/color_detector/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/color_detector build --build-base /ros2_ws/build/color_detector/build install --record /ros2_ws/build/color_detector/install.log --install-scripts $base/lib/color_detector --single-version-externally-managed install_data
